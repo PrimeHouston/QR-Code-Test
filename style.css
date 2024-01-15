@@ -1,0 +1,44 @@
+html{
+    background-color: hsl(212, 45%, 89%);
+    margin:auto;
+    
+}
+.description{
+    font-size: 15px;
+    color:hsl(220, 15%, 55%);
+    font-weight:400;
+
+
+}
+body{
+    font-family: "outfit"
+}
+
+.card{
+    display:block;
+    background-color:white;
+    width:230px;
+    margin:0 auto;
+    margin-top:100px;
+    text-align: center;
+    border-radius: 10px;
+    padding:15px;
+
+}
+
+img{   
+    border-radius:10px;
+    margin:0 auto;
+    width:100%;
+
+
+}
+
+.top-level{
+    Color:hsl(218, 44%, 22%);
+    font-size:20px;
+    font-weight: 700;
+
+
+
+}
